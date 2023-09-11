@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jest": "^29.6.4"
+  },
+   "scripts": {
+    "test": "ruleta.test.js"
+  }
+}
